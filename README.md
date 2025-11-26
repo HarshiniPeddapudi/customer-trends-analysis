@@ -101,6 +101,11 @@ Power BI is connected to the SQL database to visualize:
 
 The dashboard provides a clear view of customer behavior trends.
 
+## Power BI Dashboard 
+
+you can view the dashboard PDF here:
+[Dashboard PDF](docs/Dashboard.pdf)
+
 ---
 
 ## 🧪 Example Code Snippet From My Notebook
